@@ -15,6 +15,13 @@ You will be receiving an email to download the dataset. There are two zip file
 Flickr8k_Dataset.zip [Images] place all the images into data/images folder
 Flickr8k_text.zip [captions] place all the captions into data/caption folder
 
+# Where to store
+
+Except img_cap_load.py, img_cap_text.py and my_model11010120120.h5, store every file in htdocs.
+Create a folder called BE project and save all the dataset files and the above mentioned files in it.
+Image Augmentation is used, so mirrored images of 6k training images are added to the trainig set.
+
+
 
 
 
